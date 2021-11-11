@@ -1,0 +1,12 @@
+const LOGIN='login';
+const REGISTER='register';
+const logout='logout';
+const update_profile='update-profile';
+const Category_Products='products?category_id=1';
+const products_search='products/search';
+const FAVORITES='favorites';
+const favorites_DELET='favorites/1';
+const categories_GET='categories';
+const HOME='home';
+const profile='profile';
+const ProductDetails='products/';
